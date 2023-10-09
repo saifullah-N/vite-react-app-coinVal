@@ -23,13 +23,13 @@ Make sure you have Node.js and npm installed on your machine.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/vite-react-app-coinVal.git
+   git clone https://github.com/saifullah-N/vite-react-app-coinVal.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd vite-react-app-coinVal
+   cd coinvalue
    ```
 
 3. Install dependencies:
